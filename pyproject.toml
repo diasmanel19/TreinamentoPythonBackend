@@ -1,0 +1,15 @@
+[project]
+name = "estruturas condicionais"
+version = "0.1.0"
+description = "aula 09"
+authors = [
+    {name = "diasmanel19",email = "emanueldiasviana9@gmail.com"}
+]
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
