@@ -18,17 +18,17 @@
 # git branch -D <name>  Force delete a branch.
 
 # Inicializar um novo repositório Git
-git init
+#git init
 
 # Adicionar arquivos ao índice
-git add .
+#git add .
 
 # Criar um commit com uma mensagem descritiva
-git commit -m "Iniciar projeto com estrutura básica"
+#git commit -m "Iniciar projeto com estrutura básica"
 
 # Criar uma nova branch para uma funcionalidade
-git checkout -b nova-funcionalidade
+#git checkout -b nova-funcionalidade
 
 # Mesclar a branch de funcionalidade na branch principal
-git checkout main
-git merge nova-funcionalidade
+#git checkout main
+#git merge nova-funcionalidade
